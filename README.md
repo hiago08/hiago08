@@ -1,7 +1,7 @@
 ## Hiago Moreira 👨🏾‍🎓
 
 
-🖥Bacharelando em Sistemas de informação pelo IFBA - Campus Feira de Santana. Entusiasta de tecnologias front-end e em busca de uma oportunidade na área.
+🖥Bacharelando em Sistemas de informação pelo IFBA - Campus Feira de Santana.
 
 <!--
 **hiago08/hiago08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
